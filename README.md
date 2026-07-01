@@ -1,17 +1,1 @@
 # FILA-PRO-AP-
-{
-  "name": "fila-pro-ap",
-  "version": "1.0.0",
-  "description": "Bot de filas 1v1 para Discord",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "node index.js"
-  },
-  "dependencies": {
-    "discord.js": "^14.18.0"
-  },
-  "engines": {
-    "node": ">=20.0.0"
-  }
-}
